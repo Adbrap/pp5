@@ -1,0 +1,5 @@
+AAPL 15 minute%
+GOOG 1 hour% 
+AMZN 10 hour% 
+PIK 4 hour%
+PIK 15 minute%
